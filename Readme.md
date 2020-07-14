@@ -23,12 +23,12 @@ Correlating the IMDB genre data with our Budget dataset, we found the top films 
 
 Note: lower production cost != higher net revenue. And vice versa. Gross revenue can be considered as weighted heavier than production cost.
 
-![genreRepresentation.png](attachment:genreRepresentation.png)
+![/images/genreRepresentation.png](/images/genreRepresentation.png)
 
 Looking at our Budget dataset, we can see that the highest Gross Revenue across IMDB genres are Adventure, Action, SciFi and Comedy. Specifically, we were interested in understanding the trend in film genres having a gross revenue of more than \\$500M. Here, we can see that of the 120 films grossing more than \\$500M, Adventure and Action are very popular genre associations. This also re-emphasizes the genre association in the top net-profit data.
 
 
-![genresGross.png](attachment:genresGross.png)
+![/images/genresGross.png](/images/genresGross.png)
 
 ### How do Ratings Impact Film Success?
 
@@ -46,7 +46,7 @@ Putting it all together, the genres for Action and Adventure are trending for a 
 But comparing ratings and box-office revenue, there may be potential in the top-rated genres of Drama and Comedy.
 
 
-![toprated.png](attachment:toprated.png)
+![/images/toprated.png](/images/toprated.png)
 
 ### Directors Influence on the Bottom Line
 

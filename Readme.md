@@ -11,7 +11,7 @@ A discovery session was conducted to look at the provided datasets. Findings ind
 * Top ratings
 * Director Involvement 
 
-These datasets were cleaned to allow pivoting on individual film genres and supplemented with API data from themoviedb.org. A SQLite3 database was created to leverage the datasets together to approach the goals and objectives of this project. <a href="https://github.com/kathanner/film_industry_insights/blob/master/movies_db_schema.pdf">View database schema »</a>
+These datasets were cleaned to allow pivoting on individual film genres and supplemented with API data from themoviedb.org. A SQLite3 database was created to leverage the datasets together to approach the goals and objectives of this project. <a href="https://github.com/kathanner/film_industry_insights/blob/master/database-schema.png">View database schema »</a>
 
 ## Goals and Objectives
 
